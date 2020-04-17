@@ -56,7 +56,7 @@ a.Instantiate three books, one for each type of book, and store them in an array
 b.Iterate through the array and only print out the books that are instanceof the Loanable interface.
 
 
-c.terate through the array and only print out the book that is not loanable. 
+c.Iterate through the array and only print out the book that is not loanable. 
 
 
 d.Iterate through the array and only print out the book that has the category CHILD.
